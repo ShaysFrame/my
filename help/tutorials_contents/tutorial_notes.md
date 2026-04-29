@@ -8,7 +8,7 @@ Interesting!
 
 # Web Design Manual
 
-## Step 1: Firecrawl
+## Step 1: Firecrawl (if needed for crawling)
 
 Go to [firecrawl.dev](https://firecrawl.dev) and we can put our researching website's url and get a brand identity for it. 
 
@@ -42,3 +42,4 @@ adding some sort of api from vercel to the mcp server. lmfao publish from here d
 linkes: 
 - [🔥 3D Animated Websites](https://www.canva.com/design/DAG-TJP-IGY/2NpHN-hNKapGL8OsF5Vj-Q/edit)
 - [🧑‍💻 2026 Website Design System](https://www.notion.so/How-I-build-Beautiful-10-000-Websites-with-AI-AntiGravity-2f1e8d6bd137807a8b9fc19ec0acfc32)
+- [text vid tute](https://gumroad.com/d/99f509d74a2f0d087ccb5091a19c94d3?receipt=true)
